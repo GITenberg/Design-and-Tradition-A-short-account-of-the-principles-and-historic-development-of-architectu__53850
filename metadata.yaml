@@ -1,0 +1,27 @@
+_repo: Design-and-Tradition-A-short-account-of-the-principles-and-historic-development-of-architectu__53850
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fenn, Amor
+    gutenberg_agent_id: '47576'
+    url: http://www.gutenberg.org/2009/agents/47576
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53850'
+  lccn: '21008021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Decoration and ornament -- History'
+- !lcsh 'Art'
+- !lcsh 'Architecture'
+- !lcsh 'Decoration and ornament'
+- GITenberg
+title: "Design and Tradition\r\nA short account of the principles and historic development\
+  \ of architecture and the applied arts"
+url: http://www.gutenberg.org/ebooks/53850
